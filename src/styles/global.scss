@@ -1,0 +1,10 @@
+//SETUPS
+@import "setup/base";
+@import "setup/helpers";
+@import "setup/functions";
+@import "setup/mixins";
+@import "setup/variables";
+
+//CMPs
+@import "cmps/events.scss";
+@import "cmps/eventPreview.scss"

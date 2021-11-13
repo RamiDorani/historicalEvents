@@ -1,0 +1,28 @@
+.eventYear {
+    position: absolute;
+    background-color: #000000;
+    color: #ffffff;
+    border: 1px solid black;
+    border-radius: 5px 0px 5px 0px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    width: 4rem;
+    text-align: center;
+}
+.mycard {
+    width: 18rem;
+    height: 28rem;
+    position: relative;
+    border-color: #000000;
+    margin: 0 auto;
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2) !important;
+    transition: 0.3s;
+}
+
+.mycard :hover {
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+  }
+
+  .myCardTxt:hover {
+      box-shadow: none;
+  }
